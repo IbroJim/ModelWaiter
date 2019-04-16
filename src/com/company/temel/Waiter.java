@@ -1,18 +1,16 @@
 package com.company.temel;
 
-import java.util.UUID;
-
 public class Waiter {
 
-    private UUID id;
+    private int id;
     private String name;
 
-    public Waiter( String name) {
-        id=UUID.randomUUID();
+    public Waiter( String name){
+        this.id=id;
         this.name = name;
     }
 
-    public UUID getId() {
+    public int getId() {
         return id;
     }
 
