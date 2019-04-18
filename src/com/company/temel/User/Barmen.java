@@ -1,4 +1,4 @@
-package com.company.temel;
+package com.company.temel.User;
 
 public class Barmen {
 

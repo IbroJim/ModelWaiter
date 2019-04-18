@@ -1,4 +1,4 @@
-package com.company.temel;
+package com.company.temel.Order;
 
 import java.util.ArrayList;
 import java.util.Date;
